@@ -16,3 +16,5 @@
 - git push origiin branch-name
 - right now the branch name is main 
 - reconciles the diff between local and remote
+
+## Practice at Pushing 
